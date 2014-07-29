@@ -326,6 +326,7 @@ if __name__ == '__main__':
         if r[1] == 'NOT LOGGED APPLICATION':
             continue
         
+
         if r[6] == 'firefox.exe' and clickAccessInfo.has_key(r[0]):
             #f.write(' '.join([r[0],clickAccessInfo[r[0]][0],clickAccessInfo[r[0]][1],clickAccessInfo[r[0]][2]]))
             #f.write('\n')
