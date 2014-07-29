@@ -1,1 +1,16 @@
 *.bak
+*.tlog
+DataAnalysis/DataAnalysis/Debug/DataAnalysis.exe.embed.manifest
+DataAnalysis/DataAnalysis/Debug/DataAnalysis.exe.embed.manifest.res
+DataAnalysis/DataAnalysis/Debug/DataAnalysis.exe.intermediate.manifest
+DataAnalysis/DataAnalysis/Debug/DataAnalysis.lastbuildstate
+DataAnalysis/DataAnalysis/Debug/DataAnalysis.log
+DataAnalysis/DataAnalysis/Debug/DataAnalysis.unsuccessfulbuild
+DataAnalysis/DataAnalysis/Debug/DataAnalysis.vcxprojResolveAssemblyReference.cache
+DataAnalysis/DataAnalysis/Debug/DataAnalysis_manifest.rc
+*.obj
+*.idb
+*.pdb
+DataAnalysis/Debug/DataAnalysis.exe
+DataAnalysis/Debug/DataAnalysis.ilk
+DataAnalysis/ipch/dataanalysis-1eca8459/dataanalysis-a39f2aca.ipch
